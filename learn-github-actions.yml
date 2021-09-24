@@ -1,0 +1,2 @@
+- name: Asana Git
+  uses: insurify/github-asana-action@v2.0.0
